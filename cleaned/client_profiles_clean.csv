@@ -1,0 +1,149 @@
+CLIENT ID,TYPE,SG-BASED,OVERSEAS,COUNTRY OF OVERSEAS CLIENT,COMMENCEMENT DATE,STAFF STRENGTH,SECTOR,COUNTRY,ORG SIZE
+G1-001,Govt,Y,N,,2020-01-19,> 200,Finance,Singapore,Large
+G1-002,Govt,Y,N,,2020-05-19,> 200,Security,Singapore,Large
+G1-003,Govt,Y,N,,2021-07-18,> 200,Transportation,Singapore,Large
+G1-005,Govt,Y,N,,2022-02-11,> 200,Security,Singapore,Large
+G1-006,Govt,Y,N,,2022-03-18,50 ~ 200,Legal,Singapore,Medium
+G1-007,Govt,Y,N,,2023-02-02,> 200,Education,Singapore,Large
+G1-008,Govt,Y,N,,2023-04-02,> 200,Info Tech,Singapore,Large
+G1-009,Govt,Y,N,,2023-04-10,> 200,Info Tech,Singapore,Large
+G1-010,Govt,Y,N,,2023-06-06,> 200,Security,Singapore,Large
+G1-011,Govt,Y,N,,2024-01-14,> 200,Security,Singapore,Large
+G1-013,Govt,Y,N,,2024-01-22,50 ~ 200,Healthcare,Singapore,Medium
+G1-014,Govt,Y,N,,2024-02-24,> 200,Education,Singapore,Large
+G1-015,Govt,Y,N,,2024-03-01,> 200,Healthcare,Singapore,Large
+G1-016,Govt,Y,N,,2024-03-18,> 200,Security,Singapore,Large
+G1-017,Govt,Y,N,,2024-04-09,> 200,Healthcare,Singapore,Large
+G1-018,Govt,Y,N,,2024-09-10,> 200,Education,Singapore,Large
+G1-019,Govt,Y,N,,2025-02-24,50 ~ 200,Transportation,Singapore,Medium
+G1-020,Govt,Y,N,,2025-03-05,> 200,Healthcare,Singapore,Large
+G1-021,Govt,Y,N,,2025-03-24,> 200,Info Tech,Singapore,Large
+G2-001,Govt,N,Y,Indonesia,2022-01-08,> 200,Healthcare,Indonesia,Large
+G2-002,Govt,N,Y,Malaysia,2024-01-16,50 ~ 200,Education,Malaysia,Medium
+G2-003,Govt,N,Y,Indonesia,2025-03-25,> 200,Healthcare,Indonesia,Large
+N1-001,NPO,Y,N,,2019-06-29,1 ~ 49,Charity,Singapore,Small
+N1-002,NPO,Y,N,,2021-05-18,1 ~ 49,Charity,Singapore,Small
+N1-003,NPO,Y,N,,2022-07-30,1 ~ 49,Charity,Singapore,Small
+N1-004,NPO,Y,N,,2023-01-16,50 ~ 200,Education,Singapore,Medium
+N1-005,NPO,Y,N,,2023-06-16,1 ~ 49,Charity,Singapore,Small
+N1-006,NPO,Y,N,,2023-07-19,1 ~ 49,Education,Singapore,Small
+N1-007,NPO,Y,N,,2024-02-13,1 ~ 49,Charity,Singapore,Small
+N1-008,NPO,Y,N,,2024-04-11,1 ~ 49,Education,Singapore,Small
+N1-009,NPO,Y,N,,2024-06-01,1 ~ 49,Charity,Singapore,Small
+N1-010,NPO,Y,N,,2024-06-16,50 ~ 200,Charity,Singapore,Medium
+N1-011,NPO,Y,N,,2025-01-14,1 ~ 49,Info Tech,Singapore,Small
+N1-012,NPO,Y,N,,2025-06-14,1 ~ 49,Charity,Singapore,Small
+N1-013,NPO,Y,N,,2025-08-17,1 ~ 49,Info Tech,Singapore,Small
+P1-001,Private,Y,N,,2019-03-16,1 ~ 49,Healthcare,Singapore,Small
+P1-002,Private,Y,N,,2019-04-18,1 ~ 49,Healthcare,Singapore,Small
+P1-003,Private,Y,N,,2019-05-28,Less than 200,Manufacturing,Singapore,Unspecified
+P1-004,Private,Y,N,,2020-01-29,50 ~ 200,Manufacturing,Singapore,Medium
+P1-005,Private,Y,N,,2020-03-19,1 ~ 49,Healthcare,Singapore,Small
+P1-006,Private,Y,N,,2020-03-19,50 ~ 200,Manufacturing,Singapore,Medium
+P1-007,Private,Y,N,,2020-05-29,50 ~ 200,Transportation,Singapore,Medium
+P1-008,Private,Y,N,,2020-07-05,1 ~ 49,Healthcare,Singapore,Small
+P1-009,Private,Y,N,,2020-07-19,50 ~ 200,Transportation,Singapore,Medium
+P1-011,Private,Y,N,,2020-09-19,1 ~ 49,Healthcare,Singapore,Small
+P1-012,Private,Y,N,,2021-04-01,50 ~ 200,Manufacturing,Singapore,Medium
+P1-013,Private,Y,N,,2021-04-18,50 ~ 200,Healthcare,Singapore,Medium
+P1-014,Private,Y,N,,2022-02-21,50 ~ 200,Logistic,Singapore,Medium
+P1-015,Private,Y,N,,2022-07-08,50 ~ 200,Healthcare,Singapore,Medium
+P1-016,Private,Y,N,,2022-09-18,50 ~ 200,Logistic,Singapore,Medium
+P1-017,Private,Y,N,,2023-01-09,50 ~ 200,Manufacturing,Singapore,Medium
+P1-019,Private,Y,N,,2023-01-29,1 ~ 49,Healthcare,Singapore,Small
+P1-020,Private,Y,N,,2023-02-07,50 ~ 200,Logistic,Singapore,Medium
+P1-021,Private,Y,N,,2023-04-01,50 ~ 200,Healthcare,Singapore,Medium
+P1-022,Private,Y,N,,2023-05-03,50 ~ 200,Info Tech,Singapore,Medium
+P1-023,Private,Y,N,,2023-05-08,50 ~ 200,Transportation,Singapore,Medium
+P1-024,Private,Y,N,,2023-05-12,50 ~ 200,Info Tech,Singapore,Medium
+P1-025,Private,Y,N,,2023-05-13,50 ~ 200,Healthcare,Singapore,Medium
+P1-026,Private,Y,N,,2023-06-09,50 ~ 200,Logistic,Singapore,Medium
+P1-027,Private,Y,N,,2023-06-13,50 ~ 200,Healthcare,Singapore,Medium
+P1-028,Private,Y,N,,2023-06-29,1 ~ 49,Info Tech,Singapore,Small
+P1-029,Private,Y,N,,2023-07-14,50 ~ 200,Info Tech,Singapore,Medium
+P1-030,Private,Y,N,,2023-07-16,50 ~ 200,Education,Singapore,Medium
+P1-031,Private,Y,N,,2023-08-18,50 ~ 200,Manufacturing,Singapore,Medium
+P1-032,Private,Y,N,,2023-08-20,50 ~ 200,Legal,Singapore,Medium
+P1-033,Private,Y,N,,2023-09-26,50 ~ 200,Healthcare,Singapore,Medium
+P1-034,Private,Y,N,,2024-01-03,50 ~ 200,Manufacturing,Singapore,Medium
+P1-036,Private,Y,N,,2024-01-12,50 ~ 200,Transportation,Singapore,Medium
+P1-037,Private,Y,N,,2024-01-13,50 ~ 200,Education,Singapore,Medium
+P1-038,Private,Y,N,,2024-01-20,50 ~ 200,Education,Singapore,Medium
+P1-039,Private,Y,N,,2024-02-16,50 ~ 200,Logistic,Singapore,Medium
+P1-040,Private,Y,N,,2024-03-15,50 ~ 200,Security,Singapore,Medium
+P1-041,Private,Y,N,,2024-03-21,1 ~ 49,Healthcare,Singapore,Small
+P1-042,Private,Y,N,,2024-03-23,50 ~ 200,Manufacturing,Singapore,Medium
+P1-043,Private,Y,N,,2024-04-10,50 ~ 200,Education,Singapore,Medium
+P1-044,Private,Y,N,,2024-05-23,50 ~ 200,Healthcare,Singapore,Medium
+P1-045,Private,Y,N,,2024-05-29,50 ~ 200,Info Tech,Singapore,Medium
+P1-046,Private,Y,N,,2024-06-01,50 ~ 200,Education,Singapore,Medium
+P1-047,Private,Y,N,,2024-06-23,50 ~ 200,Manufacturing,Singapore,Medium
+P1-048,Private,Y,N,,2024-07-16,1 ~ 49,Legal,Singapore,Small
+P1-049,Private,Y,N,,2024-07-17,50 ~ 200,Education,Singapore,Medium
+P1-050,Private,Y,N,,2024-09-16,50 ~ 200,Healthcare,Singapore,Medium
+P1-051,Private,Y,N,,2025-02-14,50 ~ 200,Logistic,Singapore,Medium
+P1-052,Private,Y,N,,2025-03-02,50 ~ 200,Info Tech,Singapore,Medium
+P1-053,Private,Y,N,,2025-03-04,50 ~ 200,Transportation,Singapore,Medium
+P1-054,Private,Y,N,,2025-04-26,1 ~ 49,Healthcare,Singapore,Small
+P1-055,Private,Y,N,,2025-06-05,50 ~ 200,Info Tech,Singapore,Medium
+P1-056,Private,Y,N,,2025-07-01,50 ~ 200,Legal,Singapore,Medium
+P1-057,Private,Y,N,,2025-08-14,50 ~ 200,Info Tech,Singapore,Medium
+P1-058,Private,Y,N,,2025-09-01,1 ~ 49,Education,Singapore,Small
+P1-059,Private,Y,N,,2025-09-25,50 ~ 200,Info Tech,Singapore,Medium
+P2-001,Private,Y,N,,2019-07-07,> 200,Manufacturing,Singapore,Large
+P2-002,Private,Y,N,,2020-02-08,> 200,Manufacturing,Singapore,Large
+P2-003,Private,Y,N,,2022-05-18,> 200,Logistic,Singapore,Large
+P2-004,Private,Y,N,,2022-07-31,> 200,Security,Singapore,Large
+P2-005,Private,Y,N,,2022-11-19,> 200,Info Tech,Singapore,Large
+P2-006,Private,Y,N,,2023-03-01,> 200,Healthcare,Singapore,Large
+P2-007,Private,Y,N,,2023-04-30,> 200,Info Tech,Singapore,Large
+P2-008,Private,Y,N,,2023-05-27,> 200,Security,Singapore,Large
+P2-009,Private,Y,N,,2023-06-28,> 200,Transportation,Singapore,Large
+P2-010,Private,Y,N,,2023-07-16,> 200,Info Tech,Singapore,Large
+P2-011,Private,Y,N,,2024-01-10,> 200,Transportation,Singapore,Large
+P2-012,Private,Y,N,,2024-01-16,> 200,Education,Singapore,Large
+P2-013,Private,Y,N,,2024-01-17,> 200,Security,Singapore,Large
+P2-014,Private,Y,N,,2024-01-26,> 200,Transportation,Singapore,Large
+P2-015,Private,Y,N,,2024-02-01,> 200,Healthcare,Singapore,Large
+P2-016,Private,Y,N,,2024-04-21,> 200,Logistic,Singapore,Large
+P2-017,Private,Y,N,,2024-05-10,> 200,Info Tech,Singapore,Large
+P2-018,Private,Y,N,,2024-06-10,> 200,Info Tech,Singapore,Large
+P2-019,Private,Y,N,,2024-06-20,> 200,Logistic,Singapore,Large
+P2-020,Private,Y,N,,2024-07-11,> 200,Logistic,Singapore,Large
+P2-021,Private,Y,N,,2024-08-01,> 200,Healthcare,Singapore,Large
+P2-022,Private,Y,N,,2025-01-24,> 200,Logistic,Singapore,Large
+P2-023,Private,Y,N,,2025-02-02,> 200,Manufacturing,Singapore,Large
+P2-024,Private,Y,N,,2025-05-24,> 200,Manufacturing,Singapore,Large
+P2-025,Private,Y,N,,2025-06-23,> 200,Security,Singapore,Large
+P2-026,Private,Y,N,,2025-07-03,> 200,Security,Singapore,Large
+P3-001,Private,N,Y,Malaysia,2019-01-09,Less than 200,Healthcare,Malaysia,Unspecified
+P3-002,Private,N,Y,India,2019-04-08,Less than 200,Healthcare,India,Unspecified
+P3-003,Private,N,Y,Indonesia,2019-04-18,Less than 200,Manufacturing,Indonesia,Unspecified
+P3-004,Private,N,Y,Malaysia,2019-05-19,Less than 200,Info Tech,Malaysia,Unspecified
+P3-005,Private,N,Y,Malaysia,2019-08-18,Less than 200,Manufacturing,Malaysia,Unspecified
+P3-006,Private,N,Y,Malaysia,2019-10-17,Less than 200,Manufacturing,Malaysia,Unspecified
+P3-007,Private,N,Y,Malaysia,2020-01-18,> 200,Info Tech,Malaysia,Large
+P3-008,Private,N,Y,Malaysia,2020-04-09,50 ~ 200,Healthcare,Malaysia,Medium
+P3-009,Private,N,Y,Malaysia,2020-10-19,> 200,Info Tech,Malaysia,Large
+P3-010,Private,N,Y,Malaysia,2021-01-09,> 200,Info Tech,Malaysia,Large
+P3-011,Private,N,Y,Malaysia,2021-05-23,> 200,Logistic,Malaysia,Large
+P3-012,Private,N,Y,China,2022-04-18,50 ~ 200,Info Tech,China,Medium
+P3-013,Private,N,Y,China,2022-05-02,50 ~ 200,Manufacturing,China,Medium
+P3-014,Private,N,Y,Indonesia,2022-06-08,> 200,Manufacturing,Indonesia,Large
+P3-015,Private,N,Y,Philippines,2022-06-21,> 200,Info Tech,Philippines,Large
+P3-016,Private,N,Y,Indonesia,2022-07-17,> 200,Logistic,Indonesia,Large
+P3-017,Private,N,Y,China,2023-03-02,> 200,Manufacturing,China,Large
+P3-018,Private,N,Y,Malaysia,2023-03-19,> 200,Healthcare,Malaysia,Large
+P3-019,Private,N,Y,Malaysia,2023-04-06,> 200,Manufacturing,Malaysia,Large
+P3-020,Private,N,Y,Malaysia,2023-04-16,> 200,Info Tech,Malaysia,Large
+P3-021,Private,N,Y,China,2023-05-16,> 200,Healthcare,China,Large
+P3-022,Private,N,Y,India,2024-01-19,> 200,Manufacturing,India,Large
+P3-023,Private,N,Y,China,2024-05-06,> 200,Healthcare,China,Large
+P3-024,Private,N,Y,Indonesia,2024-06-06,50 ~ 200,Manufacturing,Indonesia,Medium
+P3-025,Private,N,Y,Philippines,2024-06-16,> 200,Security,Philippines,Large
+P3-026,Private,N,Y,Indonesia,2024-08-06,50 ~ 200,Logistic,Indonesia,Medium
+P3-027,Private,N,Y,Malaysia,2025-01-04,> 200,Info Tech,Malaysia,Large
+P3-028,Private,N,Y,India,2025-01-14,50 ~ 200,Info Tech,India,Medium
+P3-029,Private,N,Y,Malaysia,2025-04-04,> 200,Healthcare,Malaysia,Large
+P3-030,Private,N,Y,Indonesia,2025-05-04,50 ~ 200,Healthcare,Indonesia,Medium
+P3-031,Private,N,Y,India,2025-07-14,> 200,Manufacturing,India,Large
